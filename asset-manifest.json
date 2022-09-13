@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/loly-website/static/css/main.073c9b0a.css",
+    "main.js": "/loly-website/static/js/main.e8ce7c8e.js",
+    "static/js/787.22a7b450.chunk.js": "/loly-website/static/js/787.22a7b450.chunk.js",
+    "static/media/logo.svg": "/loly-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/loly-website/index.html",
+    "main.073c9b0a.css.map": "/loly-website/static/css/main.073c9b0a.css.map",
+    "main.e8ce7c8e.js.map": "/loly-website/static/js/main.e8ce7c8e.js.map",
+    "787.22a7b450.chunk.js.map": "/loly-website/static/js/787.22a7b450.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e8ce7c8e.js"
+  ]
+}
